@@ -21,6 +21,7 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
+      ru      : &RU       Архив
       # @end locale config
     url: /archive.html
 
