@@ -16,11 +16,19 @@
 
 ## => Site Settings
 ##############################
+<<<<<<< HEAD
 text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Kilya`s blog
+=======
+text_skin: default # "forest" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+url     : # the base hostname & protocol for your site e.g. https://www.someone.com
+baseurl : # does not include hostname
+title   : K. Ilya
+>>>>>>> f8ef0097a8f8132441b9e7db32e126005ebc36ed
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 
